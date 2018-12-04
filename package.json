@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "Advent of Code 2017",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperfluousMango/AdventOfCode2017.git"
+  },
+  "author": "SuperfluousMango",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SuperfluousMango/AdventOfCode2017/issues"
+  },
+  "homepage": "https://github.com/SuperfluousMango/AdventOfCode2017#readme"
+}
