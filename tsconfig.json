@@ -2,13 +2,13 @@
   "compileOnSave": true,
   "compilerOptions": {
       "module": "commonjs",
-      "target": "es6",
+      "target": "esnext",
       "noImplicitAny": true,
       "allowJs": true,
       "noEmit": true,
       "alwaysStrict": true,
       "lib": [
-          "es6",
+          "esnext",
           "dom"
       ]
   },
